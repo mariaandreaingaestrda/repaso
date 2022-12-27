@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+}
+header{
+    text-align: center;
+}
+main{
+    padding: 50px;
+}
+h2{
+    font-size: 50px;
+}
